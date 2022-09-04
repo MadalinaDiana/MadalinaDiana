@@ -7,7 +7,7 @@
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/madalina-diana-laszlo-16b358222/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />![Alb Text Încadrat Simplu Citate despre Primăvară Poveste](https://user-images.githubusercontent.com/48148610/188321166-7efcd148-9095-4fc6-972b-8b15f86c4474.png)
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/laszlomadalina/">
@@ -16,7 +16,7 @@
  </p>
 
 <p align='center'>
-  <a href="#"><img src="" width="350"></a>
+  <a href="#"><img src="Alb Text Încadrat Simplu Citate despre Primăvară Poveste](https://user-images.githubusercontent.com/48148610/188321166-7efcd148-9095-4fc6-972b-8b15f86c4474.png" width="350"></a>
 </p>
 <p align='center'>
   💻 My workspace<br/><br/>
