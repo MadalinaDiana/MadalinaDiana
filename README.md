@@ -39,7 +39,7 @@ Every day I work on improving my computer science skills
 📍 **University of Baia Mare CUNBM** - Romania
 - 📖 **Master of Computer Science**\
 📆 2021 - Present\
-
+📍 **University of Baia Mare CUNBM** - Romania
 </details>
 
 <!--
