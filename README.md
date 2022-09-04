@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Madalina 👨‍💻
+  Hi there 👋 I'm Madalina 👩‍💻
 </h1>
 <p align='center'>
   A master student in computer science from Romania
@@ -23,7 +23,10 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:madalinadiana728@yahoo.com'>madalinadiana728@yahoo.com</a>
 </p>
-Every day I work on improving my computer skills
+Every day I work on improving my computer science skills
+<p align='center'>
+🌱 I’m currently learning Python
+</p>
 
 <details>
   <summary>📃 Resume</summary>
