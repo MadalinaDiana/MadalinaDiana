@@ -16,7 +16,7 @@
  </p>
 
 <p align='center'>
-  <a href="#"><img src="Alb Text Încadrat Simplu Citate despre Primăvară Poveste](https://user-images.githubusercontent.com/48148610/188321166-7efcd148-9095-4fc6-972b-8b15f86c4474.png" width="350"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/48148610/188321166-7efcd148-9095-4fc6-972b-8b15f86c4474.png" width="350"></a>
 </p>
 <p align='center'>
   💻 My workspace<br/><br/>
